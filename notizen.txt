@@ -1,0 +1,18 @@
+Struktur der Arbeit
+Vorgabe laut Studienbuero beruecksichtigen
+
+Schriftart: Serifenhaft
+Einseitig
+Zeilenabstand: 1.5
+Raender: 3cm innen, 2.5cm alle andere Raender
+Umfang: ca. 30 Seiten ohne Bilder
+
+allg.: Adressat der der Arbeit: anderer Informatik Student mit selben Pflicht, aber anderen Wahlfaechern
+
+Einleitung (2-3 Seiten): konkrete Problemstellung, Motivation dafuer
+Reladed Work (3-5 Seiten): Wie wurde diese oder aehnliche Problem in Vergangenheit geloest
+Hintergrund (3-5 Seiten): Konzepte, die zum Verstehen der Arbeit noetig sind (insbesondere Klakanskys Methode), allg. Konzepte der Computergrafik
+Hauptteil (8-15 Seiten) Beschreibung der eigenen Methode, Unterscheide Algorithmik und Implementierung
+Ergebnisse (3-5 Seiten), Ergebnisbilder, Zeitenmessung, Wichtig: Wertungsfrei
+Diskussion (2-5 Seiten) kritische Auseinandersetzung mit Ergebnisse, darf Werten
+Zusammenfassung (1-2): wichtigste Ergebnisse der Arbeit zusammenfassen und Verbesserungsmoeglichkeiten fuer Zukunft erwaehnen
