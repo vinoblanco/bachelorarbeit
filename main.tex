@@ -26,7 +26,10 @@
 
 \frontmatter							                                    % Seitenzählerstart vor dem Text
 
-%\tableofcontents						                                    % 2.  Inhaltsverzeichnis
+\setcounter{tocdepth}{2}                                             % Kapitel, Section und Subsection im Inhaltsverzeichnis
+\setcounter{secnumdepth}{2}                                          % Nummerierung bis Subsection
+
+\tableofcontents						                                    % 2.  Inhaltsverzeichnis
 
 % \printglossary[title=Glossar] 					                        % Glossar Einträge in Header/Glossar.tex vornehmen
 \renewcommand{\glsnamefont}[1]{\textbf{#1}}
