@@ -1,0 +1,63 @@
+
+Aufzählung sind auch sehr einfach:
+
+\begin{enumerate}
+    \item erster Punkt
+    \item zweiter Punkt
+    \begin{enumerate}
+        \item erster Unterpunkt
+        \item zweiter Unterpunkt
+    \end{enumerate}
+    \item weiter Punkt
+\end{enumerate}
+
+\blindtext
+
+
+
+Kapitel beginnen mit \texttt{\\chapter}.
+
+\section{Hintergrund} % (fold)
+\label{sec:hintergrund}
+
+\begin{center}
+    ``Hübsches Zitat mit Referenz in der Fußnote.''\footnote{Autor Buchtitel Verlag, Erscheinungsjahr, Seite.}
+\end{center}
+
+Weitere Zitat \cite{weise2014benchmarking}. Und ein Conference Proceeding \cite{Hess2017}. Und ein Techreport \cite{instance1290}.
+
+\section{Weitere Section} % (fold)
+\label{sec:weitere_arbeiten}
+
+\subsection{Untersection}
+\label{ssec:untersection}
+
+\blindtext
+
+
+Tabellen, wie Tabelle \ref{tab:example} können auch mit einem Tabllengenerator wie auf Seite \url{https://www.tablesgenerator.com} im Internet erstellt werden.
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|r||l|l|}\hline
+        t & $P(C_1)$ & $P(C_2)$\\\hline
+        a & $0,6$ & $0,4$\\\hline
+        b & $0,1$ & $0,9$\\\hline
+        c & $0,82$ & $0,18$\\\hline\hline
+        Mittelwert & \textbf{0,507} & $0,493$\\\hline
+    \end{tabular}
+    \caption{Beispiel für eine Tablle. Neben $Formeln$ und \textbf{Fettdruck} ist auch \textit{Kursiv} möglich.}
+    \label{tab:example}
+\end{table} 
+
+
+Man kann auch \textbf{\textit{Fett und Kursiv}} kombinieren.
+
+\begin{itemize}
+    \item erster Punkt
+    \item zweiter Punkt
+    \begin{itemize}
+        \item ein Unterpunkt
+        \item noch ein Unterpunkt
+    \end{itemize}
+    \item ein weiterer Punkt
+\end{itemize}

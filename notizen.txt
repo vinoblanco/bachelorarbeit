@@ -11,8 +11,26 @@ allg.: Adressat der der Arbeit: anderer Informatik Student mit selben Pflicht, a
 
 Einleitung (2-3 Seiten): konkrete Problemstellung, Motivation dafuer
 Reladed Work (3-5 Seiten): Wie wurde diese oder aehnliche Problem in Vergangenheit geloest
-Hintergrund (3-5 Seiten): Konzepte, die zum Verstehen der Arbeit noetig sind (insbesondere Klakanskys Methode), allg. Konzepte der Computergrafik
+Hintergrund (3-5 Seiten): Konzepte, die zum Verstehen der Arbeit noetig sind
 Hauptteil (8-15 Seiten) Beschreibung der eigenen Methode, Unterscheide Algorithmik und Implementierung
 Ergebnisse (3-5 Seiten), Ergebnisbilder, Zeitenmessung, Wichtig: Wertungsfrei
 Diskussion (2-5 Seiten) kritische Auseinandersetzung mit Ergebnisse, darf Werten
 Zusammenfassung (1-2): wichtigste Ergebnisse der Arbeit zusammenfassen und Verbesserungsmoeglichkeiten fuer Zukunft erwaehnen
+
+
+- Vergleich mit TRFinder TRMerger 
+- Vergleich mit RPTRF 
+
+- Testen auf reelen Daten --> 8gb --> 35 min
+- Testen mit Edge Cases (künstlich erstellt)
+
+- Sequenzteil wird nicht doppelt betrachtet --> Aufweichen für teilweise Überlappung??
+
+- Paper/ Bücher um Biologischen Hintergrund zu Verstehen
+
+- Diagramme erstellen für BA mit aktuellem Stand der Software
+- Pseudocode erstellen
+
+- Präsi überarbeiten
+
+- Aussichten: evtl GUI, support für eine lange sequenz(?)
